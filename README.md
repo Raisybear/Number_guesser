@@ -1,5 +1,4 @@
 # Projektdokumentation
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
 Spycher
 
@@ -19,9 +18,12 @@ Einen random Numberguesser mit c+ programmieren.
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
-
+| 1    |        Muss   |   Funktional   | Eine zufällige Nummer zwischen 1 und 100 generieren, dass es nicht immer die gleiche Zahl ist.|
+| 2    |        Muss   |   Funktional   | gewählte Zahl mit generierter Zahl vergleichen, um rausuzufinden ob es die richtige ist.|
+| 3    |        Muss   |   Funktional   | Angeben ob Zahl richtig/grösser/kleiner ist, um weiter zu raten   |
+| 4    |        Muss   |   Funktional   | Bei korrket geratener Zahl Programm abschliessen, um nochmal zu spielen.  |
+| 5    |        Muss   |   Funktional   | Neue Zahl generieren, um wieder spielen zu können  |
+| 3    |        Muss   |   Funktional   |   |
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
