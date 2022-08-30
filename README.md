@@ -23,7 +23,7 @@ Einen random Numberguesser mit c+ programmieren.
 | 3    |        Muss   |   Funktional   | Angeben ob Zahl richtig/grösser/kleiner ist, um weiter zu raten   |
 | 4    |        Muss   |   Funktional   | Bei korrket geratener Zahl Programm abschliessen, um nochmal zu spielen.  |
 | 5    |        Muss   |   Funktional   | Neue Zahl generieren, um wieder spielen zu können  |
-| 3    |        Kann   |   Funktional   | +  |
+| 3    |        Kann   |   Funktional   |  |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
