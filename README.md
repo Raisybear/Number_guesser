@@ -42,13 +42,13 @@ Einen random Numberguesser mit c+ programmieren.
 
 ## 2 Planen
 
-| AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
-| ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |   30.08.    |           |      Random Number generieren        |       20 min        |
-| ...  |       |           |       Zahl bestimmen ob höher oder kleiner als x       |       30 min        |
-| ...  |       |           |       x bestimmen können, also der Spieler kann eine Zahl raten      |               |
-| ...  |       |           |       Zahl bestimmen ob höher oder kleiner als x       |               |
-| ...  |       |           |       Zahl bestimmen ob höher oder kleiner als x       |               |
+| AP-№ | Frist       | Zuständig | Beschreibung | geplante Zeit |
+| ---- | -----       | --------- | ------------ | ------------- |
+| 1.A  |   30.08.    |     Spycher      |      Random Number generieren        |       20 min        |
+| x.B  |   30.08.    |     Spycher     |       Zahl bestimmen ob höher oder kleiner als x       |       30 min        |
+| x.C  |   30.08.    |      Spycher     |       x bestimmen können, also der Spieler kann eine Zahl raten      |       30 min        |
+| x.D  |   30.08.    |      Spycher     |       Beenden des Durchlaufes mit geratener Zahl  |        45 min       |
+| x.E  |   30.08.    |      Spycher     |       Lauf zurücksetzten und einen neuen Starten     |       45 min        |
 
 Total: 
 
@@ -64,9 +64,9 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  |   30.08.    |           |      20 min       |           10 min        |
+| 1.A  |    30.08.    |           |       30 min        |         30 min          |
+| ...  |    30.08.    |           |        30 min       |          45 min         |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
