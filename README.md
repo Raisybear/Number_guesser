@@ -44,8 +44,11 @@ Einen random Numberguesser mit c+ programmieren.
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  |   30.08.    |           |      Random Number generieren        |       20 min        |
+| ...  |       |           |       Zahl bestimmen ob höher oder kleiner als x       |       30 min        |
+| ...  |       |           |       x bestimmen können, also der Spieler kann eine Zahl raten      |               |
+| ...  |       |           |       Zahl bestimmen ob höher oder kleiner als x       |               |
+| ...  |       |           |       Zahl bestimmen ob höher oder kleiner als x       |               |
 
 Total: 
 
@@ -61,6 +64,7 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
+| 1.A  |       |           |               |                   |
 | 1.A  |       |           |               |                   |
 | ...  |       |           |               |                   |
 
