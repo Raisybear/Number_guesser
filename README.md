@@ -27,6 +27,7 @@ Einen random Numberguesser mit c+ programmieren.
 | 7    |        Muss   |   Funktional   | Bei einer zu kleinen Eingaebe (Negativbereich/Dezimal oder anderen Reellen Zahlen) Problem sagen, damit es keine Fehler gibt |
 | 8    |        Muss   |   Funktional   | Bei einem Buchstaben oder einem Wort Problem sagen, damit es keine Fehler gibt |
  
+ 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
@@ -34,11 +35,11 @@ Einen random Numberguesser mit c+ programmieren.
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |     Randomnummer wurde generiert und gespeichert         |     Zahl von 1 bis 100    |          Zahl ist grösser/kleiner         |
-| x.2 |     Randomnummer wurde generiert und gespeichert         |    Zahl über 100     |          Eingabe ist nicht erlaubt, wähle eine kleinere Zahl         |
-| x.3  |     Randomnummer wurde generiert und gespeichert         |         |                   |
-| x.4  |     Randomnummer wurde generiert und gespeichert         |         |                   |
-| x.5 |     Randomnummer wurde generiert und gespeichert         |         |                   |
-| x.5 |     Der Durchlauf wurde erfolgreich beendet         |         |                   |
+| 6.2 |     Randomnummer wurde generiert und gespeichert         |    Zahl über 100     |          Eingabe ist nicht erlaubt, wähle eine kleinere Zahl         |
+| 7.3  |     Randomnummer wurde generiert und gespeichert         |     Zahl unter 100    |                   |
+| x.4 |     Randomnummer wurde generiert und gespeichert         |         |                   |
+| 4.5 |     Der Durchlauf wurde erfolgreich beendet         |    Ja/Nein     |         Programm wird nochmal ausgeführt oder nicht          |
+
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
@@ -69,6 +70,7 @@ Total:
 
 Ich habe mich schon ziemlich früh entschieden wenig bis keine Design features einzufügen, denn ich denke es ist wichtig, dass der User möglichst wenig Optionen hat das Spiel zu crashen und auch alles testen kann was bei inkorrekter Eingabe geregelt ist.
 
+
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
@@ -78,8 +80,8 @@ Ich habe mich schon ziemlich früh entschieden wenig bis keine Design features e
 | 2/3.C  |    30.08.    |    Spycher        |        30 min       |          45 min         |
 | 4/5.D |   30.08.    |      Spycher     |     45 min    |       ca. 200 min       |
 | 6.E  |   30.08.    |      Spycher     |        45 min   |       45 min        |
-| 7.F |       |      Spycher     |        |       |
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
+
 
 ## 5 Kontrollieren
 
