@@ -34,11 +34,14 @@ Dieser Code beschreibt eine Schleife, um festzustellen ob die Zahl geraten wurde
 
 
 while (x == 1)   
-| Diese Line sagt, dass solange die Variabel x 1 ist, wird das untenstehende in den Klammern ausgeführt
+| Diese Line sagt, dass solange die Variabel x 1 ist, 
+  wird das untenstehende in den Klammern ausgeführt
 else if (Guesszahl == RandomZahl)          
-| Hier wird beschrieben, dass sobald die Guesszahl der RandomZahl entspricht etwas ausgeführt wird.
+| Hier wird beschrieben, dass sobald die Guesszahl der RandomZahl 
+  entspricht etwas ausgeführt wird.
 x = 0;                                    
-| Jetzt wird x auf 0 gesetzt, somit wird die Schleife unterbrochen weil die oberste Line nicht mehr stimmt.
+| Jetzt wird x auf 0 gesetzt, somit wird die Schleife unterbrochen, 
+  weil die oberste Line nicht mehr stimmt.
 
 
 
