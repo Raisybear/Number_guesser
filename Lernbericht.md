@@ -1,5 +1,5 @@
 # Lernbericht
-Elias
+Elias Spycher
 
 ## Einleitung
 
@@ -10,6 +10,7 @@ Einen Ratesimulator einer generierten Zufallszahl.
 Wie man bestimmt ob die Runde vorbei ist, oder die Zahl noch nicht geraten wurde.
 
 ## Beschreibung
+
 ```C#                                                    
  while (x == 1)                                                  
                 {
@@ -40,12 +41,13 @@ https://user-images.githubusercontent.com/110892658/189852302-152d3bc8-3706-4dc5
 
 ## Verifikation
 
-Du findest noch einen Screenshot zum ganzen 
+Oben ist noch der Ganze Code, um den Zusammenhang der Zeilen im gesamten Code zu sehen. 
+Ausserdem hat es ein kurzes Gif/Video, bei dem man den Code in Aktion sieht.
 
 
-# Reflektion zum Arbeitsprozess
+## Reflektion zum Arbeitsprozess
 
-Mir viel das Arbeiten teilweise sehr schwer, ich wusste oft nicht was man machen musste, weil ich zu schlecht zugehört habe und nicht konzentriert gearbeitet habe.
+Mir viel das Arbeiten teilweise sehr schwer, ich wusste oft nicht was man machen musste, weil ich zu schlecht zugehört habe und nicht konzentriert gearbeitet habe. Ich sollte mir für die Zukunft meine Pausen besser einteilen und aktiver Nutzen, z.B kurz an die frische Luft gehen und mich ein wenig bewegen.
 
 
 
