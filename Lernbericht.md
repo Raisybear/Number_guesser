@@ -10,7 +10,7 @@ Einen Ratesimulator einer generierten Zufallszahl.
 Wie man bestimmt ob die Runde vorbei ist, oder die Zahl noch nicht geraten wurde.
 
 ## Beschreibung
-```C#                                                      ``` 
+```C#                                                    
  while (x == 1)                                                  
                 {
               
@@ -24,7 +24,7 @@ Wie man bestimmt ob die Runde vorbei ist, oder die Zahl noch nicht geraten wurde
                     
                 }  
                 
-```                                                         ```       
+```                                                         
 
 Dieser Code beschreibt eine Schleife, um festzustellen ob die Zahl geraten wurde oder noch nicht.
 ![2022-09-13](https://user-images.githubusercontent.com/110892658/189839376-084ae68d-7495-4cd0-8c78-7438f136fe99.png)
