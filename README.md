@@ -98,9 +98,11 @@ Ich habe mich schon ziemlich früh entschieden wenig bis keine Design features e
 
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
+| I    |       Falscheingaben werden als Error angezeigt       |         |                   |                      |
+| II  |              |         |                   |                      |
+| II  |              |         |                   |                      |
+| II  |              |         |                   |                      |
+| II  |              |         |                   |                      |
 ✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
