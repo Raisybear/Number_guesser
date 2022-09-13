@@ -65,6 +65,7 @@ https://user-images.githubusercontent.com/110892658/189852302-152d3bc8-3706-4dc5
       
       
       
+      
 ## Verifikation
 
 Oben ist noch der Ganze Code, um den Zusammenhang der Zeilen im gesamten Code zu sehen. 
