@@ -102,11 +102,12 @@ Ich habe mich schon ziemlich früh entschieden wenig bis keine Design features e
 
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
-| I   |              |   2.2mrd      |   zu gross                |      crash weil über int32                |
-| II  |              |  buchstabe       |      error             |                      | crash weil kein int
-| III  |              |  dezimalzahl       |     zu klein/zu gross              |  crash                    |
-| II  |              |         |                   |                      |
-| II  |              |         |                   |                      |
+| I   |        start      |   2.2mrd      |   zu gross                |      crash weil über int32                |
+| II  |        start      |  buchstabe       |      error             |                      | crash weil kein int
+| III  |       start      |  dezimalzahl       |     zu klein/zu gross              |  crash                    |
+| IV  |        start      |  leerer input       |     nichts              |        crash              |
+
+Getestet von Fabian 
 
 ✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
