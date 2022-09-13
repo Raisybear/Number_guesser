@@ -12,16 +12,20 @@ Wie man bestimmt ob die Runde vorbei ist, oder die Zahl noch nicht geraten wurde
 ## Beschreibung
 
 int x = 1;
+
 while (x == 1)
+
 { 
   
   else if (Guesszahl == RandomZahl)
+  
   {
  
    Counter = Counter + 1;
    x = 0;
 
   }
+  
 }              
 ![2022-09-13](https://user-images.githubusercontent.com/110892658/189839376-084ae68d-7495-4cd0-8c78-7438f136fe99.png)
 
