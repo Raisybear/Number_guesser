@@ -27,7 +27,9 @@ Wie man bestimmt ob die Runde vorbei ist, oder die Zahl noch nicht geraten wurde
                 
 ```                                                         
 
+
 Dieser Code beschreibt eine Schleife, um festzustellen ob die Zahl geraten wurde oder noch nicht. 
+
 
 while (x == 1)                             | Diese Line sagt, dass solange die Variabel x 1 ist, wird das untenstehende in den Klammern ausgeführt
 else if (Guesszahl == RandomZahl)          | Hier wird beschrieben, dass sobald die Guesszahl der RandomZahl entspricht etwas ausgeführt wird.
@@ -35,9 +37,14 @@ x = 0;                                     | Jetzt wird x auf 0 gesetzt, somit w
 
 
 
+
 https://user-images.githubusercontent.com/110892658/189852302-152d3bc8-3706-4dc5-8454-c54943ffe040.mp4
 
+*Ein kleines Gif*
+
 ![2022-09-13](https://user-images.githubusercontent.com/110892658/189839376-084ae68d-7495-4cd0-8c78-7438f136fe99.png)
+
+*Der ganze Code*
 
 ## Verifikation
 
